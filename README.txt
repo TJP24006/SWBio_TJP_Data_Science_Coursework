@@ -8,7 +8,7 @@ Python 3.7 or higher (to install required packages)
 
 # Provided data 
 
-Dataset included under /data folder. Dataset should be named LESAPeakArea.csv and contain 766 samples, and 8 column headings. As part of the code a second cleaned dataset with be outputted named cleaned_LESAPeakdata.csv. Please ensure data folder containing LESAPeakArea.csv is in your working directory, or the code will not run.
+Dataset included under /data folder. Dataset should be named LESAPeakArea.csv and contain 766 samples, and 7 column headings. As part of the code a second cleaned dataset with be outputted named cleaned_LESAPeakdata.csv. Please ensure data folder containing LESAPeakArea.csv is in your working directory, or the code will not run.
 
 # Usage 
 
