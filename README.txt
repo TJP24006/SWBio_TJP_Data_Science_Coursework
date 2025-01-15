@@ -14,7 +14,7 @@ Dataset included under /data folder. Example dataset should be named LESAPeakAre
 
 1. Download entire github folder including data folder containing LESAPeakArea.csv into a single directory 
 
-2. Run the 'Install Packages' code in On_Off-Tissue_model.ipynb first installing required packages from pandas and sklearn. 
+2. Run the 'Install Packages' code in On_Off-Tissue_model.ipynb first, installing required packages from pandas and sklearn. 
 
 3. Import the data from the dataset, and run data cleaning code. When cleaned_LESAPeakdata.csv is outputted, double check that no 'NaN' values are present. 
 
