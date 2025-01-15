@@ -12,7 +12,15 @@ Dataset included under /data folder. Dataset should be named LESAPeakArea.csv an
 
 # Usage 
 
-Submitting the code should generate a good performing KNN. 
+1. Download entire github folder including data folder containing LESAPeakArea.csv into a single directory 
+
+2. Run the 'Install Packages' code in On_Off-Tissue_model.ipynb first installing required packages from pandas and sklearn. 
+
+3. Import the data from the dataset, and run data cleaning code. When cleaned_LESAPeakdata.csv is outputted, double check that no 'NaN' values are present. 
+
+4. If using own data, make sure peak areas the following peak areas are recorded: Desmosterol, Desmosterol-D6, Cholesterol, Cholesterol-D7, 24S-hydroxycholesterol and 24R/S-hydroxycholesterol-D7. Also ensure own data is in the data folder is in the same directory as n_Off-Tissue_model.ipynb. 
+
+5. Run the rest of the pipeline to construct model based off KNN algorithm, and evaluate model performance with final 'Model evaluation' secton.
 
 # Contribution and Comments
 
