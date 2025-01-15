@@ -18,7 +18,7 @@ Dataset included under /data folder. Example dataset should be named LESAPeakAre
 
 3. Import the data from the dataset, and run data cleaning code. When cleaned_LESAPeakdata.csv is outputted, double check that no 'NaN' values are present. 
 
-4. If using own data, make sure peak areas the following peak areas are recorded: Desmosterol, Desmosterol-D6, Cholesterol, Cholesterol-D7, 24S-hydroxycholesterol and 24R/S-hydroxycholesterol-D7. Also ensure own data is in the data folder is in the same directory as n_Off-Tissue_model.ipynb. 
+4. If using own data, make sure the following peak areas are recorded: Desmosterol, Desmosterol-D6, Cholesterol, Cholesterol-D7, 24S-hydroxycholesterol and 24R/S-hydroxycholesterol-D7. Also ensure own data is in the data folder, in the same directory as On_Off-Tissue_model.ipynb. 
 
 5. Run the rest of the pipeline to construct model based off KNN algorithm, and evaluate model performance with final 'Model evaluation' secton.
 
